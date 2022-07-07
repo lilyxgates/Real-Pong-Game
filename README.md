@@ -28,10 +28,18 @@ Play pong! This is my first game! This program was written following [this tutor
 
 ## Starting the Program
 
-Run the program by typing the following then pressing Enter:
+Run the program by typing the following two lines, each followed by pressing Enter:
 
 ```
+cd Real-Pong-Game
 python3 realpong.py
 ```
+
+## Controls
+
+Player | Up | Down
+--- | --- | ---
+1 | W | S
+2 | Up Arrow Key | Down Arrow Key
 
 Have fun!
